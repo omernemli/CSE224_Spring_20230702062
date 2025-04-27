@@ -1,0 +1,13 @@
+{
+  "DESIGN_NAME":    "project_1",
+  "VERILOG_FILES":  ["src/project_1.v"],
+  "CLOCK_PORT":     "clk",
+  "CLOCK_PERIOD":   10.0,
+  "TARGET_LIBRARY": "/openlane/technology/sky130A/libs.ref/sky130A.lib",
+  "TECH_LEF":       "/openlane/technology/sky130A/sky130A.lef",
+  "LIBRARY_PATH":   "/openlane/technology/sky130A/libs.ref",
+  // no "PINS" section here!
+  // instead we’ll tell the flow where to find a pin-order file:
+  "FP_PIN_ORDER_CFG": "dir::pin_order.cfg"
+}
+
