@@ -1,0 +1,19 @@
+Design Name: project3
+Run Directory: /openlane/designs/project3/runs/RUN_2025.05.25_14.17.12
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/project3/runs/RUN_2025.05.25_14.17.12/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/project3/runs/RUN_2025.05.25_14.17.12/logs/signoff/37-project3.lef.lvs.log
+Number of nets: 237                        |Number of nets: 237                        
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/project3/runs/RUN_2025.05.25_14.17.12/logs/signoff/40-arc.log
+Pin violations: 6
+Net violations: 6

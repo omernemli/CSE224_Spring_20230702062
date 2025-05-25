@@ -1,0 +1,6 @@
+Partial/Required:  3.41, Required:    400.0, Partial:  1362.67, Net: _085_, Pin: _218_/B, Layer: met1
+Partial/Required:  1.53, Required:    400.0, Partial:   613.57, Net: one_second_counter\[14\], Pin: _180_/B, Layer: met1
+Partial/Required:  1.09, Required:    400.0, Partial:    436.0, Net: _129_, Pin: _249_/C, Layer: met1
+Partial/Required:  1.03, Required:    400.0, Partial:    413.5, Net: _044_, Pin: _346_/RESET_B, Layer: met1
+Partial/Required:  1.02, Required:    400.0, Partial:   408.39, Net: _029_, Pin: _331_/RESET_B, Layer: met1
+Partial/Required:  1.00, Required:    400.0, Partial:   400.99, Net: _073_, Pin: _283_/A1, Layer: met1
