@@ -1,0 +1,36 @@
+[WARNING GRT-0026] Missing route to pin _5695_/S0.
+[WARNING GRT-0026] Missing route to pin _6321_/S0.
+[WARNING GRT-0026] Missing route to pin _5796_/S0.
+[WARNING GRT-0026] Missing route to pin _5768_/S0.
+[WARNING GRT-0026] Missing route to pin _6001_/S0.
+[WARNING GRT-0026] Missing route to pin _5866_/S0.
+[WARNING GRT-0026] Missing route to pin _5984_/S0.
+[WARNING GRT-0026] Missing route to pin _5932_/S0.
+[WARNING GRT-0026] Missing route to pin _5947_/S0.
+[WARNING GRT-0026] Missing route to pin _5928_/S0.
+[WARNING GRT-0026] Missing route to pin _6055_/S0.
+[WARNING GRT-0026] Missing route to pin _6018_/S0.
+[WARNING GRT-0026] Missing route to pin _6125_/S0.
+[WARNING GRT-0026] Missing route to pin _6195_/S0.
+[WARNING GRT-0026] Missing route to pin _6212_/S0.
+[WARNING GRT-0026] Missing route to pin _6165_/S0.
+[WARNING GRT-0026] Missing route to pin _6168_/S0.
+[WARNING GRT-0026] Missing route to pin _6226_/S0.
+[WARNING GRT-0026] Missing route to pin _6228_/S0.
+[WARNING GRT-0026] Missing route to pin _6316_/S0.
+[WARNING GRT-0026] Missing route to pin _6270_/S0.
+[WARNING GRT-0026] Missing route to pin _6496_/S0.
+[WARNING GRT-0026] Missing route to pin _7060_/S0.
+[WARNING GRT-0026] Missing route to pin _6421_/S0.
+[WARNING GRT-0026] Missing route to pin _6524_/S0.
+[WARNING GRT-0026] Missing route to pin _6482_/S0.
+[WARNING GRT-0026] Missing route to pin _6595_/S0.
+[WARNING GRT-0026] Missing route to pin _6639_/S0.
+[WARNING GRT-0026] Missing route to pin _6696_/S0.
+[WARNING GRT-0026] Missing route to pin _6750_/S0.
+[WARNING GRT-0026] Missing route to pin _6921_/S0.
+[WARNING GRT-0026] Missing route to pin _6964_/S0.
+[WARNING GRT-0026] Missing route to pin _6942_/S0.
+Warning: There are 48 input ports missing set_input_delay.
+Warning: There are 64 unconstrained endpoints.
+[WARNING] Did not save OpenROAD database!

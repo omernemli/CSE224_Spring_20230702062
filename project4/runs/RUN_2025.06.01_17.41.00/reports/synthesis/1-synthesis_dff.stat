@@ -1,0 +1,21 @@
+
+55. Printing statistics.
+
+=== project4 ===
+
+   Number of wires:               3065
+   Number of wire bits:           4162
+   Number of public wires:          40
+   Number of public wire bits:    1137
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               4113
+     $_ANDNOT_                      32
+     $_MUX_                       3008
+     $_NAND_                         2
+     $_NOT_                          1
+     $_ORNOT_                        4
+     $_OR_                          42
+     sky130_fd_sc_hd__dfxtp_2     1024
+
