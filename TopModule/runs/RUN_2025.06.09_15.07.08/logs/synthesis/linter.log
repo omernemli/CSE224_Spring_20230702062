@@ -1,0 +1,22 @@
+%Warning-WIDTHTRUNC: /openlane/designs/TopModule/src/TopModule.v:172:18: Operator ASSIGNW expects 4 bits on the Assign RHS, but Assign RHS's SHIFTR generates 32 bits.
+                                                                       : ... note: In instance 'TopModule.display'
+  172 |     assign digit = value >> (sel * 4);
+      |                  ^
+                     ... For warning description see https://verilator.org/warn/WIDTHTRUNC?v=5.018
+                     ... Use "/* verilator lint_off WIDTHTRUNC */" and lint_on around source to disable this message.
+%Warning-WIDTHEXPAND: /openlane/designs/TopModule/src/TopModule.v:52:32: Operator ADD expects 32 bits on the RHS, but RHS's VARREF 'imm' generates 16 bits.
+                                                                       : ... note: In instance 'TopModule.alu'
+   52 |             3'b110: Result = A + imm;        
+      |                                ^
+%Warning-WIDTHEXPAND: /openlane/designs/TopModule/src/TopModule.v:53:32: Operator SUB expects 32 bits on the RHS, but RHS's VARREF 'imm' generates 16 bits.
+                                                                       : ... note: In instance 'TopModule.alu'
+   53 |             3'b111: Result = A - imm;        
+      |                                ^
+%Warning-UNUSEDSIGNAL: /openlane/designs/TopModule/src/TopModule.v:119:10: Signal is not used: 'isImmediate'
+                                                                         : ... note: In instance 'TopModule'
+  119 |     wire isImmediate;
+      |          ^~~~~~~~~~~
+%Warning-LATCH: /openlane/designs/TopModule/src/TopModule.v:86:5: Latch inferred for signal 'TopModule.isImmediate' (not all control paths of combinational always assign a value)
+                                                                : ... Suggest use of always_latch for intentional latches
+   86 |     always @(*) begin
+      |     ^~~~~~

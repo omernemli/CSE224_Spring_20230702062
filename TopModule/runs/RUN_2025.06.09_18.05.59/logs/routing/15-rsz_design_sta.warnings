@@ -1,0 +1,4 @@
+[WARNING GRT-0026] Missing route to pin _1831_/B1.
+Warning: There are 2 input ports missing set_input_delay.
+Warning: There are 43 unconstrained endpoints.
+[WARNING] Did not save OpenROAD database!
